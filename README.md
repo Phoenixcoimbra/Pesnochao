@@ -13,11 +13,15 @@ This repository contains the HTML code for a basic landing page template for Pé
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/phoenixcoimbra/pes-no-chao-landing-page.git]
+git clone [https://github.com/phoenixcoimbra/pes-no-chao-landing-page.git].
+```
 
 ## Usage
 
 Open the index.html file in your web browser to view the webpage.
+
+Dependencies
+This template requires a separate CSS file (style.css) for styling. You'll need to create this file and define the styles for the HTML elements.
 
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
